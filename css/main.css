@@ -104,11 +104,11 @@ form input {
     border: 1px solid rgb(0, 0, 0);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 553px) {
     p, textarea, li, #submit {
         font-size: 1.4em;
     }
-    h1 { font-size: 2.3em; }
+    h1 { font-size: 2.1em; }
     video {
         width: 100%;
         z-index: 0;
